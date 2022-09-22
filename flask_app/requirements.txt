@@ -2,6 +2,6 @@ flask
 flask-sqlalchemy
 sqlalchemy
 flask-wtf
-flask-security-too == 4.1.0
+flask-security-too == 5.0.1
 flask-login
 passlib
