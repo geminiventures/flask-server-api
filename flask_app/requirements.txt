@@ -1,4 +1,7 @@
+flask
 flask-sqlalchemy
 sqlalchemy
-flask-security
 flask-wtf
+flask-security-too
+flask-login
+passlib
