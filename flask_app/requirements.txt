@@ -1,4 +1,7 @@
+flask
 flask-sqlalchemy
 sqlalchemy
-flask-security
 flask-wtf
+flask-security-too == 4.1.0
+flask-login
+passlib
