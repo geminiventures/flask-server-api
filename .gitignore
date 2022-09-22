@@ -1,3 +1,5 @@
+.idea
+flask_app/site.db
 flask_app/__pycache__
 /flenv
 venv
